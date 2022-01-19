@@ -1,0 +1,21 @@
+{
+  "name": "20-tooling_workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "webpack": "4.46.0",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^4.7.3"
+  },
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
